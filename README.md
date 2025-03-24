@@ -15,12 +15,14 @@ SQL注入手动：
 
 这里以著名的sqli-labs靶场进行测试：
 
-![image-20250324224525180](C:\Users\solo66\AppData\Roaming\Typora\typora-user-images\image-20250324224525180.png)
+<img width="1126" alt="sql" src="https://github.com/user-attachments/assets/123a2623-5861-4d4f-8b04-f91c4e93829d" />
 
-![image-20250324224944716](C:\Users\solo66\AppData\Roaming\Typora\typora-user-images\image-20250324224944716.png)
+
+<img width="637" alt="sql_code" src="https://github.com/user-attachments/assets/fdfcb811-5490-48e4-87e5-30512d7aeef6" />
+
 
 简单写了一些常见的数据库报错提示，然后就是在url后面添加 ’ 和 “ 进行测试，是不是看起来很简单，相信各位师傅大佬们也能写出来。
 
 最后就是测试啦：
 
-![image-20250324225330598](C:\Users\solo66\AppData\Roaming\Typora\typora-user-images\image-20250324225330598.png)
+<img width="879" alt="result" src="https://github.com/user-attachments/assets/9bdc55d4-a3b9-4750-b131-1a07af110525" />
